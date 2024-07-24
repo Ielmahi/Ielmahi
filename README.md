@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm ilias</h1>
 <h3 align="center">Hello! My name is Ilias. I am a passionate student currently enrolled at ALX and 1337 coding school. My interests lie in the fields of Programming and Artificial Intelligence.</h3>
 
+## Motto
+**Vini, Codi, Vici** - *I came, I coded, I conquered.*
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ielmahi&label=Profile%20views&color=0e75b6&style=flat" alt="ielmahi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ielmahi" alt="ielmahi" /></a> </p>
@@ -25,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ielmahi&show_icons=true&locale=en" alt="ielmahi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ielmahi&" alt="ielmahi" /></p>
+
+Thank you for visiting my GitHub profile! I am always open to collaboration and learning opportunities.
