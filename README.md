@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm ilias</h1>
 <h3 align="center">Hello! My name is Ilias. I am a passionate student currently enrolled at ALX and 1337 coding school. My interests lie in the fields of Programming and Artificial Intelligence.</h3>
 
-## Motto
-**Vini, Codi, Vici** - *I came, I coded, I conquered.*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ielmahi&label=Profile%20views&color=0e75b6&style=flat" alt="ielmahi" /> </p>
 
