@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ilias</h1>
-<h3 align="center">Hello! My name is Ilias. I am a passionate student currently enrolled at ALX and 1337 coding school. My interests lie in the fields of Programming and Artificial Intelligence.</h3>
+<h3 align="center">As a Student Software Engineer at 1337 Coding School with a fresh perspective and a strong foundation in engineering and project management, I am eager to tackle innovative projects. With participation in the ALX Software Engineering program, my competencies align seamlessly with collaborative environments, driving success through shared knowledge and a passion for technology.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ielmahi&label=Profile%20views&color=0e75b6&style=flat" alt="ielmahi" /> </p>
