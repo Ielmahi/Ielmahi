@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **elmahiilias9@gmail.com**
 
-
+<h1 align="left">My Stats :</h1>
 [![ilelmahi's 42 stats](https://badge.mediaplus.ma/greenbinary/ilelmahi)](https://github.com/oakoudad/badge42)
 
 <h3 align="left">Connect with me:</h3>
