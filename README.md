@@ -12,6 +12,10 @@
 
 - 📫 How to reach me **elmahiilias9@gmail.com**
 
+<h2> My Stats : </h2>
+
+[![ilelmahi's 42 stats](https://badge.mediaplus.ma/greenbinary/ilelmahi)](https://github.com/oakoudad/badge42)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iliaselmahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iliaselmahi" height="30" width="40" /></a>
