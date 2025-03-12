@@ -14,5 +14,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ielmahi&show_icons=true&locale=en" alt="ielmahi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ielmahi&" alt="ielmahi" /></p>
-
-Thank you for visiting my GitHub profile! I am always open to collaboration and learning opportunities.
