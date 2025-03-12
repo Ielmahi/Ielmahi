@@ -1,17 +1,3 @@
-<h1 align="center">Hi 👋, I'm ilias</h1>
-<h3 align="center">As a Student Software Engineer at 1337 Coding School with a fresh perspective and a strong foundation in engineering and project management, I am eager to tackle innovative projects. With participation in the ALX Software Engineering program, my competencies align seamlessly with collaborative environments, driving success through shared knowledge and a passion for technology.</h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ielmahi&label=Profile%20views&color=0e75b6&style=flat" alt="ielmahi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ielmahi" alt="ielmahi" /></a> </p>
-
-- 👯 I’m looking to collaborate on **AI projects, software development projects**
-
-- 💬 Ask me about **Shell ,c and python**
-
-- 📫 How to reach me **elmahiilias9@gmail.com**
-
 <h1 align="left">My Stats :</h1>
 
 [![ilelmahi's 42 stats](https://badge.mediaplus.ma/greenbinary/ilelmahi)](https://github.com/oakoudad/badge42)
